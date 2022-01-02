@@ -1,7 +1,7 @@
 # Leonid Shirokiy
 ## Front-end Developer
 
-![LeonidShirokiy_photo](https://github.com/Leanid91/rsschool-cv/blob/gh-pages/photo_cv.JPG)
+![LeonidShirokiy_photo](https://github.com/Leanid91/rsschool-cv/blob/gh-pages/photoCV.JPG)
 
 ## Contacts:
 
