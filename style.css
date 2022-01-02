@@ -1,4 +1,119 @@
 body {
     margin: 0;
     padding: 0;
+    background-color: #93C7F6;
+    font-family: sans-serif;
+    font-size: 18px;
+    line-height: 21,11px;
+    color: #0417C1;
+}
+header {
+    width: 1021px;
+    margin: 50px auto;
+    background-color: white;
+    margin-bottom: 0;
+    
+}
+.container {
+    margin: 0 auto;
+    width: 1000px;
+    
+    
+}
+nav ul {
+    margin-top: 10px;
+    padding: 0;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+}
+nav ul li {
+    margin-top: 10px;
+}
+nav ul li a {
+    text-decoration: none;
+    display: block;
+    width: 134px;
+    height: 30px;
+    background-color: #93C7F6;
+    border: 4px solid #93C7F6;
+    border-radius: 43px;
+    color: #0417C1;
+    text-align: center;
+    padding-top: 10px;
+}
+nav ul li a:hover, nav ul li a:active {
+    border: 4px solid #0417C1;
+    font-weight: bold;
+    color: white;
+}
+
+.photo_and_name {
+    display: flex;
+}
+.my_photo img {
+    display: block;
+    border: solid 4px #93C7F6;
+    border-radius: 43px;
+    width: 288px;
+    height: 251px;
+    margin-right: 21px;
+}
+.text_name {
+    width: 693px;
+    height: 251px;
+    border: solid 4px #93C7F6;
+    border-radius: 43px;
+    background: url(img/kisspng-light-luminous-efficacy-technology-background-shading-5a6eab18e51f21\ 1\ \(1\).png) no-repeat;
+    position: relative;
+}
+.background_name {
+    width: 275px;
+    height: 102px;
+    background-color: white;
+    opacity: 62%;
+    border: none;
+    border-radius: 43px;
+    position: absolute;
+    top: 68px;
+    left: 200px;
+}
+.background_name h1 {
+    font-weight: bold;
+    font-style: normal;
+    font-size: 34px;
+    line-height: 40px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    margin-top: 20px;
+    color: #0417C1;
+}
+.background_name h3 {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: #0417C1;
+}
+
+
+main {
+    width: 1021px;
+    margin: 0 auto;
+    background-color: white;
+    height: 1000px;
+    padding-top: 23px;
+}
+.contacts {
+  width: 288px;
+  height: 213px;
+  border: solid 4px #93C7F6;  
+  border-radius: 43px;
+}
+.contacts-header {
+  width: 100%;
+  height: 58px;
+  border: none;  
+  border-radius: 37px 37px 0px 0px;
+  background-color: #93C7F6;
 }
